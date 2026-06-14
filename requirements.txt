@@ -67,8 +67,6 @@ uvicorn==0.49.0
 watchdog==6.0.0
 websockets==16.0
 streamlit
-google-generativeai
+groq
 python-dotenv
-pypdf
-matplotlib
-reportlab
+pypdf2
