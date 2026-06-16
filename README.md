@@ -172,6 +172,7 @@ Pull requests are welcome! Feel free to open an issue for bugs or feature reques
 ## 📬 Connect
 
 [![GitHub](https://img.shields.io/badge/GitHub-aravindsai2202-181717?logo=github)](https://github.com/aravindsai2202)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aravind%20Sai%20Thanneru-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aravind-sai-thanneru/)
 
 ---
 
